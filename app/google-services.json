@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479524595253",
+    "project_id": "hiclass-app",
+    "storage_bucket": "hiclass-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479524595253:android:39ba94893801b0e1b9737c",
+        "android_client_info": {
+          "package_name": "com.example.hiclassformulas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479524595253-2ts33eir4u0ficjc5d8tv27n4auhvni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sdeB1RQWDqLPMI5SOLjgDLGz-84PYqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479524595253-2ts33eir4u0ficjc5d8tv27n4auhvni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

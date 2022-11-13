@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+
+    android:background="@drawable/background_gradient"
+    tools:context=".MainActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/logoOnHome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center"
+            android:src="@drawable/hiclass_logo_purple_small_removebg_dark"
+
+            />
+
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button10th"
+            android:layout_width="300dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="-350dp"
+
+            android:text="10TH"
+            android:textSize="25sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+
+            style="@style/Widget.Material3.Button"
+
+            android:backgroundTint="@color/pink"
+             />
+
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button12th"
+            android:layout_width="300dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="-350dp"
+
+            android:text="12TH"
+            android:textSize="25sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            style="@style/Widget.Material3.Button"
+
+            android:backgroundTint="@color/purple"
+            />
+
+
+
+
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/button12tsh"-->
+<!--            android:layout_width="300dp"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_marginTop="50dp"-->
+<!--            android:layout_marginEnd="-350dp"-->
+
+<!--            android:background="@drawable/round_shape_button"-->
+<!--            android:text="12TH"-->
+<!--            android:textSize="25sp"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:textStyle="bold" />-->
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</RelativeLayout>

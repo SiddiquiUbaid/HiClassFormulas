@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">HiClass Formulas</string>
+    <string name="subjects_activity">Subjects</string>
+    <string name="chapters_activity">Chapters</string>
+
+
+    //formulas data
+
+    //adding formulas for ssc_ch1_real numbers starts.
+    <string name="t_natural_numbers">Natural Numbers</string>
+    <string name="f_natural_numbers"><font color="purple">  N   = {1,2,3,4,5.....} </font> </string>
+    <string name="e_natural_numbers">It is the counting numbers</string>
+
+    <string name="t_whole_numbers">Whole Numbers</string>
+    <string name="f_whole_numbers">  W  = {<font color="grey">0</font>,1,2,3,4,5.....}</string>
+    <string name="e_whole_numbers">It is the counting numbers + zero</string>
+
+    <string name="t_integers">Integers</string>
+    <string name="f_integers">  Z  = <font color="#cc0029">{...-3,-2,-1,</font><font color="grey">0</font>,1,2,3,...}</string>
+    <string name="e_integers">It is integers</string>
+
+    <string name="t_positive_integers">Positive Integers</string>
+    <string name="f_positive_integers">  Z<sub>+</sub>  = {1,2,3,4,5.....} </string>
+    <string name="e_positive_integers">It is positive integer</string>
+
+    <string name="t_negative_integers">Negative Integers</string>
+    <string name="f_negative_integers"> <font color="#cc0029"> Z<sub>-</sub>  = {-1,-2,-3,-4,-5.....} </font> </string>
+    <string name="e_negative_integers">It is negative integers</string>
+
+    <string name="t_rational_number">Rational Numbers</string>
+    <string name="f_rational_number"> <font color="#cc0029"> E.g: </font> 1/2, 4/3, 5/7, 1 etc</string>
+    <string name="e_rational_number">A number is called rational if it can be expressed in the form of p/q
+        where p and q are integers (q > 0)</string>
+
+    <string name="t_irrational_number">Irrational Numbers</string>
+    <string name="f_irrational_number"> <font color="#cc0029"> E.g: </font> √3, √2, etc</string>
+    <string name="e_irrational_number">A number is called rational if it cannot be expressed in the form of p/q
+        where p and q are integers (q > 0)</string>
+
+    <string name="t_real_numbers">Real Numbers</string>
+    <string name="f_real_numbers"> <font size="17"> R All rational and all irrational number makes the collection of
+    real numbers.
+    </font></string>
+    <string name="e_real_numbers">All rational and all irrational number makes the collection of
+    real numbers. It is denoted by the letter R
+    </string>
+
+    <string name="t_euclids_division_lemma">Euclids\'s Division Lemma</string>
+    <string name="f_euclids_division_lemma">a=bq + r , 0 ≤ r ≤ b </string>
+    <string name="e_euclids_division_lemma">For a and b any two positive integer, we can always find unique integer q and r such that
+    a=bq + r , 0 if r=0, then b is divisor of a.</string>
+
+    <string name="t_hcf">HCF(Highest Common Factor)</string>
+    <string name="f_hcf">HCF(a,b) = HCF(b,r)  </string>
+    <string name="e_hcf">It is the counting numbers + zero</string>
+
+    <string name="t_hcf_coprimes">If HCF(a,b)=1</string>
+    <string name="f_hcf_coprimes"> <font  size="20">Then a and b are co-primes </font> </string>
+    <string name="e_hcf_coprimes">Then a and b are co-primes</string>
+
+    <string name="t_fund_theo_of_arithmetic">Fundamental Theorem of Arithmetic</string>
+    <string name="f_fund_theo_of_arithmetic"> <font  size="17">Composite number = Product of Primes </font> </string>
+    <string name="e_fund_theo_of_arithmetic">Composite number = Product of Primes</string>
+
+
+    <string name="t_realnumbers_imp_formula">Important Formula</string>
+    <string name="f_realnumbers_imp_formula"> <font  size="18">HCF(a,b) X LCM(a,b) = a X b </font> </string>
+    <string name="e_realnumbers_imp_formula">HCF(a,b) X LCM(a,b) = a X b</string>
+
+    <string name="t_imp_concept_rational_number">Important concept for Rational Number</string>
+    <string name="f_imp_concept_rational_number" > <font size="17">Terminating decimal expression can be written in the form</font> <font color="#cc0029" size="17"> p/2<sup>n</sup>5<sup>m</sup> </font> </string>
+    <string name="e_imp_concept_rational_number">Terminating decimal expression can be written in the form <font color="#cc0029" size="15">
+        <font size="17">p/2<sup>n</sup>5<sup>m</sup></font> </font> </string>
+<!--    adding of formulas for ssc_ch1_real numbers ends-->
+
+
+<!--    adding of formulas for ssc_ch2_real numbers starts-->
+    <string name="t_polynomial_expression">Polynomial Expression</string>
+    <string name="f_polynomial_expression"> <font  size="18" style="bold">S(x)</font>=a<sub>n</sub>x<sup>n</sup>+a<sub>n-1</sub>x<sup>n-1</sup>+a<sub>n-2</sub>x<sup>n-2</sup>+....+ax+a<sub>0</sub> </string>
+    <string name="e_polynomial_expression">HCF(a,b) X LCM(a,b) = a X b</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
